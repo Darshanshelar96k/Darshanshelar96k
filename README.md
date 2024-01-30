@@ -1,4 +1,5 @@
-# 👋 Hello World! I'm Darshan Shelar, a passionate Python developer diving deep into the realms of data science. 👨‍💻 Currently, I'm crafting code and unraveling insights as part of my data-driven journey.
+# 👋 Hello World! I'm Darshan Shelar
+👋 Hello World! I'm Darshan Shelar, a passionate Python developer diving deep into the realms of data science. 👨‍💻 Currently, I'm crafting code and unraveling insights as part of my data-driven journey.
 
 🐍 Python is my language of choice, and I wield it with finesse to build robust and scalable solutions. Whether it's wrangling data with Pandas 🐼, sculpting web applications with Django 🌐, or painting vivid data stories through visualization 📊, I thrive on transforming raw information into actionable intelligence.
 
@@ -27,8 +28,8 @@ I'm a passionate Python developer and data science enthusiast. My journey involv
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/darshan-shelar-591322215/)
-- portfolio Website: [Your Website]([https://www.your-website.com](https://darshanshelar96k.github.io/portfolio/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/darshan-shelar-591322215/)
+- portfolio Website: [My portfolio](https://darshanshelar96k.github.io/portfolio/)
 
 ## Let's Code Together!
 
