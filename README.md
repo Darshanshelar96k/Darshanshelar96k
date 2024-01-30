@@ -10,8 +10,7 @@
 Happy coding! 🚀✨
 
 ## About Me
-![]([link/to/your/profile-picture.jpg](https://media.licdn.com/dms/image/D4D16AQG31AKIjCegvA/profile-displaybackgroundimage-shrink_350_1400/0/1702492634195?e=1712188800&v=beta&t=oTpH2fsFUZKO9N2ZxKbcb9KwotF38tr_QW9T5y0ZFe0
-))
+![](https://media.licdn.com/dms/image/D4D16AQG31AKIjCegvA/profile-displaybackgroundimage-shrink_350_1400/0/1702492634195?e=1712188800&v=beta&t=oTpH2fsFUZKO9N2ZxKbcb9KwotF38tr_QW9T5y0ZFe0)
 
 I'm a passionate Python developer and data science enthusiast. My journey involves creating insightful data stories, building robust web applications with Django, and wielding the power of Pandas for data manipulation.
 
