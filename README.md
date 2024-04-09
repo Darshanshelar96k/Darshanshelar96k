@@ -30,7 +30,7 @@ I'm a passionate Python developer and data science enthusiast. My journey involv
 ## Connect with Me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/darshan-shelar-591322215/)
-- portfolio Website: [My portfolio](https://darshanshelar96k.github.io/portfolio/)
+- portfolio Website: [My portfolio](https://darshanshelar96k.github.io/Darshan-s-Portfolio/)
 
 ## Let's Code Together!
 
